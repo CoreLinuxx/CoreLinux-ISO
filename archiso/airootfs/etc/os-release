@@ -1,0 +1,12 @@
+NAME="EosOS Linux x86_64"
+PRETTY_NAME="EosOS"
+ID="eosos"
+ID_LIKE="arch"
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://eososlinux.github.io/"
+DOCUMENTATION_URL="https://eososlinux.github.io/"
+SUPPORT_URL="https://eososlinux.github.io/"
+BUG_REPORT_URL="https://eososlinux.github.io/"
+PRIVACY_POLICY_URL="https://eososlinux.github.io/"
+LOGO="eoslinux"
