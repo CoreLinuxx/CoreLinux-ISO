@@ -48,6 +48,7 @@ fatresize
 firefox
 fsarchiver
 fwupd
+git
 gpart
 gparted
 gptfdisk
@@ -160,7 +161,7 @@ plasma-nm
 plasma-pa
 plasma-systemmonitor
 plasma-workspace
-plasma-x11-session
+#plasma-x11-session
 polkit
 polkit-kde-agent
 print-manager
@@ -244,9 +245,9 @@ yaml-cpp
 ckbcomp
 
 # --- calamares
-calamares-core
+calamares-eo
 core-calamares-confignet
 core-wallpapers
 core-icons
 core-skel-kde
-core-wellcome
+#core-wellcome
