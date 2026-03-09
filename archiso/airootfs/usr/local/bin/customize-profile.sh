@@ -8,10 +8,12 @@ pacman-key --init
 
 #systemctl enable firewalld.service
 
-systemctl enable bluetooth.service
+
+#systemctl enable bluetooth.service
 
 # Habilita sddm Plasma
-systemctl enable sddm.service
+#systemctl enable sddm.service
+systemctl enable plasmalogin
 
 xdg-user-dirs-update
 ## Script to perform several important tasks before `mkarcheosiso` create filesystem image.
