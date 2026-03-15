@@ -42,9 +42,7 @@ fakeroot
 fastfetch
 fatresize
 firefox
-git
 gpart
-gparted
 gptfdisk
 grub
 gwenview
@@ -198,7 +196,6 @@ xl2tpd
 # --- chaotic-aur
 chaotic-mirrorlist
 chaotic-keyring
-update-grub
 
 # dependencias calamares
 #libpwquality
@@ -207,7 +204,7 @@ update-grub
 
 # --- calamares
 calamares-core
-core-calamares-confignet
+core-calamares-config
 core-wallpapers
 core-icons
 core-skel-kde
