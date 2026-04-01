@@ -74,8 +74,10 @@ libfido2
 libusb-compat
 libwnck3
 linux
-linux-headers
+linux-atm
+#linux-headers
 linux-firmware
+linux-firmware-marvell
 lsb-release
 lsscsi
 lvm2
