@@ -74,8 +74,11 @@ libfido2
 libusb-compat
 libwnck3
 linux
+<<<<<<< HEAD
 linux-atm
 #linux-headers
+=======
+>>>>>>> 3554b4f (update)
 linux-firmware
 linux-firmware-marvell
 lsb-release
